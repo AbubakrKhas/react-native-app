@@ -1,4 +1,4 @@
-# if not downloaded npm just Install node mod..
+# if it is not downloaded npm just Install node mod..
 
 npm install
 
